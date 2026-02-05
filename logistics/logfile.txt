@@ -1,0 +1,2 @@
+2026-01-19 19:00:40.503 IST [25884] LOG:  redirecting log output to logging collector process
+2026-01-19 19:00:40.503 IST [25884] HINT:  Future log output will appear in directory "log".
